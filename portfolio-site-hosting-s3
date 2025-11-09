@@ -23,7 +23,7 @@ Then follow manually:
 
    ```json
    {
-     "name": "Sphoorthi Gurram",
+     "name": "Srinivas Gurram",
      "title": "AWS Cloud Developer",
      "skills": ["AWS", "Node.js", "Angular", "Terraform"],
      "projects": ["Team Electra – IFEC EV Charger"]
